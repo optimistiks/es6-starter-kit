@@ -8,7 +8,7 @@
     "lint": "eslint src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "optimistiks",
+  "author": "Maxim Potapov",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
